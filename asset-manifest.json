@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/experttutor/static/css/main.e6c13ad2.css",
+    "main.js": "/experttutor/static/js/main.ac9672a3.js",
+    "static/js/787.ac50a993.chunk.js": "/experttutor/static/js/787.ac50a993.chunk.js",
+    "index.html": "/experttutor/index.html",
+    "main.e6c13ad2.css.map": "/experttutor/static/css/main.e6c13ad2.css.map",
+    "main.ac9672a3.js.map": "/experttutor/static/js/main.ac9672a3.js.map",
+    "787.ac50a993.chunk.js.map": "/experttutor/static/js/787.ac50a993.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ac9672a3.js"
+  ]
+}
